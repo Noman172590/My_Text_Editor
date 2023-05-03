@@ -1,0 +1,19 @@
+.margin{
+    margin: 0 15px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dada{
+    border:2px solid black;
+    padding: 15px;
+    background-color: tomato;
+    border-radius: 2px;
+}
+.dada_baba{
+    background-color: lightblue;
+    padding: 100px;
+    
+}
